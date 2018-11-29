@@ -1,3 +1,3 @@
 # imagetest
 
-![Image description](link-to-image)
+![Image](https://raw.githubusercontent.com/brandonbrown/imagetest/master/imgs/happyholidays.gif)
